@@ -78,7 +78,7 @@ LLM tracing, evaluation, monitoring, and performance analysis.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn
-📧 Email
+💼 LinkedIn [linkedin.com/in/sai-keerthi-marikanti-0218b231b](url)
+📧 Email keerthimarikanti2@gmail.com
 
 -->
